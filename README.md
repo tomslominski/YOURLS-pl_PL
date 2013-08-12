@@ -8,7 +8,7 @@ Instalacja
 
 1) Pobierz plik ZIP tego repozytorium korzystając z przycisku na górze tej strony.
 2) Umieść pliki ``pl_PL.mo`` i ``pl_PL.po`` w folderze ``user/languages`` w głównym folderze YOURLS.
-3) Do pliku ``config.php``, dodaj ``define( 'YOURLS_LANG', 'fr_FR' );``.
+3) Do pliku ``config.php``, dodaj ``define( 'YOURLS_LANG', 'pl_PL' );``.
 
 Znalazłem/am błąd!
 ------------------
