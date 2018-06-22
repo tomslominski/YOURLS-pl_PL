@@ -14,8 +14,6 @@ Znalazłem/am błąd!
 ------------------
 Jeśli znalazłeś błąd w moim tłumaczeniu, co jest prawdę mowiąc wysoko prawdopodobne ;), sklonuj repozytorium, zrób zmiany i złóż _pull request_.
 
-Alternatywnie, wyślij mi maila na [me@tomslominski.net](mailto:me@tomslominski.net). Aczkolwiek, metoda powyżej jest preferowana.
-
 Dzięki
 
 Licencja
