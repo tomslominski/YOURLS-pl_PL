@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: YOURLS 1.6\n"
 "POT-Creation-Date: 2013-02-10 23:03+0100\n"
-"PO-Revision-Date: 2013-07-09 14:24+0100\n"
-"Last-Translator: Smoku <sm.oku@uko.ms>\n"
+"PO-Revision-Date: 2021-04-13 13:27+0100\n"
+"Last-Translator: Jakub Rój <jakub.roj@sufband.com>\n"
 "Language-Team: Tom Slominski <tom@slomin.ski>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -81,14 +81,14 @@ msgstr "Historia kliknięć"
 #, php-format
 msgid "about 1 day ago"
 msgid_plural "about %s days ago"
-msgstr[0] "około 1 dnia temu"
+msgstr[0] "około 1 dzień temu"
 msgstr[1] "około %s dni temu"
 
 #. //translators: eg Short URL created on March 23rd 1972
 #: yourls-infos.php:341
 #, php-format
 msgid "Short URL created on %s"
-msgstr "Krótkie URLe stworzone %s"
+msgstr "Krótki URL stworzony %s"
 
 #: yourls-infos.php:356 yourls-infos.php:363
 #, php-format
@@ -212,7 +212,7 @@ msgid "Short link"
 msgstr "Krótki link"
 
 #: yourls-infos.php:542
-msgid "Quick Share "
+msgid "Quick Share"
 msgstr "Szybkie Udostępnianie"
 
 #: admin/index.php:13 admin/index.php:39 admin/index.php:98
@@ -690,8 +690,8 @@ msgid "Upgrade"
 msgstr "Zaktualizuj"
 
 #: admin/upgrade.php:77
-msgid "Your installation is now up to date ! "
-msgstr "Twoja instalacja została zaktualizowana !"
+msgid "Your installation is now up to date!"
+msgstr "Twoja instalacja jest teraz na najnowszej wersji!"
 
 #: admin/upgrade.php:78
 #, php-format
@@ -751,7 +751,7 @@ msgid "Enter the URL"
 msgstr "Wpisz URL"
 
 #: includes/functions-html.php:172
-msgid "Optional "
+msgid "Optional"
 msgstr "Opcjonalny"
 
 #: includes/functions-html.php:172
@@ -864,7 +864,7 @@ msgstr "Twój skrócony link"
 
 #: includes/functions-html.php:310
 msgid "Quick Share"
-msgstr "Szybkie Udostępnianie"
+msgstr "Szybkie Udostępnienie"
 
 #: includes/functions-html.php:339
 msgid "Long link"
@@ -1266,7 +1266,7 @@ msgstr "Plik wtyczki nie jest poprawny"
 
 #: includes/functions-plugins.php:428
 msgid "Plugin already activated"
-msgstr "Wtyczkę już aktywowano"
+msgstr "Wtyczkę już zostala zaktywowana"
 
 #: includes/functions-plugins.php:436
 #, php-format
@@ -1283,7 +1283,7 @@ msgid ""
 "inactive?"
 msgstr ""
 "Ta strona nie istnieje. Może szukasz wtyczki, o której myślałeś, że jest "
-"aktywowana, ale nie jest?"
+"aktywna, ale nie jest?"
 
 #: includes/functions-plugins.php:539
 msgid "Invalid link"
@@ -1305,7 +1305,7 @@ msgid ""
 "here</a>"
 msgstr ""
 "jeśli nie zostaniesz przekierowany po 10 sekundach, proszę <a href=\"%s"
-"\">kliknij tutaj</a>"
+"\">kliknąć tutaj</a>"
 
 #: includes/functions.php:633
 #, php-format
